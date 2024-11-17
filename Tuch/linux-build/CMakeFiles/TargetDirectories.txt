@@ -1,0 +1,3 @@
+/home/imagment/Desktop/Tuchtig/Tuch/linux-build/CMakeFiles/Tuchtig.dir
+/home/imagment/Desktop/Tuchtig/Tuch/linux-build/CMakeFiles/edit_cache.dir
+/home/imagment/Desktop/Tuchtig/Tuch/linux-build/CMakeFiles/rebuild_cache.dir

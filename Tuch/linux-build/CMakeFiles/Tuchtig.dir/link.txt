@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/Tuchtig.dir/Main.cpp.o CMakeFiles/Tuchtig.dir/strops.cpp.o CMakeFiles/Tuchtig.dir/eval.cpp.o -o Tuchtig  -lm /usr/lib/x86_64-linux-gnu/libboost_system.so.1.83.0 /usr/lib/x86_64-linux-gnu/libSDL2.so -lSDL2_image -lSDL2_ttf
